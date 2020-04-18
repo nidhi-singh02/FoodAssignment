@@ -1,0 +1,24 @@
+{
+  "name": "nidhi_honestfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bbox": "^0.4.0",
+    "body-parser": "^1.19.0",
+    "bunyan": "^1.8.12",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "geojson": "^0.5.0",
+    "helmet": "^3.22.0",
+    "node-geocoder": "^3.27.0",
+    "supercluster": "^7.0.0",
+    "validatorjs": "^3.18.1"
+  }
+}
